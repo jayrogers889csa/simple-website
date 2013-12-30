@@ -1,7 +1,7 @@
 body {
 font-family: 'Chau Philomene One', sans-serif;
 color: #2B3B7A;
-background: #FAE1C5;
+background: #FAE1C5 url('/Users/jayrogers/my_simple_site/img/bg-texture.jpg') repeat;
 }
 
 a {
@@ -21,7 +21,7 @@ color: #9E202E;
 
 .btn {
 color: #FAF3BC;
-background: #C96969 url('img/texture.png') no-repeat right top;
+background: #C96969 url('/Users/jayrogers/my_simple_site/img/noisy-texture.png');
 padding: 15px 30px;
 margin: 40px 0px;
 border-radius: 25px; 
@@ -30,7 +30,7 @@ text-transform: uppercase;
 
 .btn:hover {
   background-color: #CC7A7A;
-  border-radius: 25px;
+  border-radius: 40px;
   padding: 17px 35px;
 }
 
