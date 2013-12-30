@@ -1,6 +1,6 @@
 body {
 font-family: 'Chau Philomene One', sans-serif;
-color: #FAF3BC;
+color: #2B3B7A;
 background: #FAE1C5;
 }
 
@@ -10,18 +10,18 @@ text-decoration: none;
 }
 
 h1 {
-font-size: 1.750em;
+font-size: 1.500em;
 letter-spacing: -1.5px;
 }
 
 h2 {
 font-size: 1.500em;
-color: #B4C34F; 
+color: #9E202E; 
 }
 
 .btn {
 color: #FAF3BC;
-background: #4FB69F url('img/texture.png') no-repeat right top;
+background: #C96969 url('img/texture.png') no-repeat right top;
 padding: 15px 30px;
 margin: 40px 0px;
 border-radius: 25px; 
@@ -29,7 +29,7 @@ text-transform: uppercase;
 }
 
 .btn:hover {
-  background-color: #4CC4A7;
+  background-color: #CC7A7A;
 }
 
 ul.nav {
@@ -40,11 +40,12 @@ ul.nav {
 
 ul.nav li {
  	float: left;
-	  margin-right: 40px;
+	margin-right: 40px;
+  font-size: 1.750em;
 }
 
 ul.nav li a {
-	  color: #FAF3BC;
+	  color: #2B3B7A;
 }
 
 #intro {
@@ -52,22 +53,22 @@ ul.nav li a {
 }
 
 #greeting-photo {
-	border: 7px solid #FAF3BC;
+	border: 7px solid #4F4F4F;
 	margin-bottom: 14px;
 }
 
 
 #other-likes img {
-	  border: 8px solid #FAF3BC;
+	  border: 8px solid #4F4F4F;
 	  margin: 0 0 20px 0;
 }
 
 #featured-like img {
-	  border: 8px solid #FAF3BC;
+	  border: 8px solid #4F4F4F;
 }
 
 #copyright {
-	  border-top: 4px solid #2A0400;
+	  border-top: 4px solid #4F4F4F;
 	  padding: 10px 0;
     margin: 15px 0;
     text-align: center;
